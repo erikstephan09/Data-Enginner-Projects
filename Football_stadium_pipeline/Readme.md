@@ -2,6 +2,8 @@
 
 # Project Architecture 
 
+![image_alt](https://github.com/erikstephan09/Data-Enginner-Projects/blob/main/Football_stadium_pipeline/Data%20Pipeline%20Architecture.png?raw=true)
+
 ## Introduction
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) data pipeline designed to collect and analyze information about football stadiums from a Wikipedia page.
