@@ -19,7 +19,7 @@ The pipeline uses a combination of open-source tools and cloud services:
 - Query the data using AWS Athena or AWS Redshift
 - Perform data analysis to answer specific business questions
 
-###❓Key Analytical Questions
+### ❓Key Analytical Questions
 
 - 🏟️ What are the top 5 stadiums by capacity?
 - 🌍 What is the average stadium capacity by region?
