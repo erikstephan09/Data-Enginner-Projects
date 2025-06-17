@@ -14,10 +14,10 @@ The pipeline uses a combination of open-source tools and cloud services:
 - AWS Services: S3, Glue, Athena, Redshift
 
 ### 🛠️ Project Objectives
-- Scrape football stadium data from Wikipedia
-- Store the structured data in an AWS S3 bucket
-- Query the data using AWS Athena or AWS Redshift
-- Perform data analysis to answer specific business questions
+- Extract football stadium data from Wikipedia.
+- Store the structured data in an AWS S3 bucket.
+- Query the data using AWS Athena or AWS Redshift.
+- Perform data analysis to answer specific business questions.
 
 ### ❓Key Analytical Questions
 
