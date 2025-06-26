@@ -2,6 +2,8 @@
 
 # Project Architecture 
 
+![image_alt](https://github.com/erikstephan09/Data-Enginner-Projects/blob/main/Football_stadium_pipeline/Data%20Pipeline%20Architecture.png?raw=true)
+
 ## Introduction
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) data pipeline designed to collect and analyze information about football stadiums from a Wikipedia page.
@@ -12,11 +14,13 @@ The pipeline uses a combination of open-source tools and cloud services:
 - AWS Services: S3, Glue, Athena, Redshift
 
 ### 🛠️ Project Objectives
-- Scrape football stadium data from Wikipedia
-- Store the structured data in an AWS S3 bucket
-- Query the data using AWS Athena or AWS Redshift
-- Perform data analysis to answer specific business questions
- ###❓Key Analytical Questions
+- Extract football stadium data from Wikipedia.
+- Store the structured data in an AWS S3 bucket.
+- Query the data using AWS Athena or AWS Redshift.
+- Perform data analysis to answer specific business questions.
+
+### ❓Key Analytical Questions
+
 - 🏟️ What are the top 5 stadiums by capacity?
 - 🌍 What is the average stadium capacity by region?
 - 🗺️ How many stadiums are there in each country?
