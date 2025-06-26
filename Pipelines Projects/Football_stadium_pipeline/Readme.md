@@ -2,7 +2,7 @@
 
 # Project Architecture 
 
-![image_alt](https://github.com/erikstephan09/Data-Enginner-Projects/blob/main/Football_stadium_pipeline/Data%20Pipeline%20Architecture.png?raw=true)
+![image_alt](https://github.com/erikstephan09/Data-Enginner-Projects/blob/9e0fac44097f0db096dc108007dc093fa73c486a/Pipelines%20Projects/Football_stadium_pipeline/Data%20Pipeline%20Architecture.png)
 
 ## Introduction
 
