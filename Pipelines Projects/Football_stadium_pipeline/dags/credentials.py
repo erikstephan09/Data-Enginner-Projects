@@ -1,5 +1,0 @@
-AWS_ACCESS_KEY_ID = 'AWS ACCESS KEY ID'
-AWS_SECRET_ACCESS_KEY = 'AWS SECRET ACCESS KEY'
-BUCKET_NAME = 'wikipedia-footbal-pipeline'
-REGION_NAME = 'REGION'
-OBJECT_NAME = 'wikipedia_football_stadium.csv'
