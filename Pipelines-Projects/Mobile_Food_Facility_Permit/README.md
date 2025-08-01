@@ -46,45 +46,28 @@ Using SQL queries and Power BI dashboards, this project allows you to:
 
 ## Project Structure
 
-&nbsp;   MobileFoodPermitProject/
-
-&nbsp;   │
-
-&nbsp;   ├── pipeline/                 # Airflow DAGs, requirements.txt, and Docker Compose files
-
-&nbsp;   │   ├── dags/                 # Python DAGs for ETL
-
-&nbsp;   │   ├── docker-compose.yml    # Airflow Docker configuration
-
-&nbsp;   │   └── requirements.txt      # Python dependencies
-
-&nbsp;   │
-
-&nbsp;   ├── raw\_data/                 # Raw CSV data from the dataset
-
-&nbsp;   │   └── mobile\_food\_permits.csv
-
-&nbsp;   │
-
-&nbsp;   ├── terraform/                # IaC configuration for AWS infrastructure
-
-&nbsp;   │   ├── main.tf   			# Main Terraform file
-
-&nbsp;   │   ├── provider.tf        # Cloud provider
-
-&nbsp;   │   ├── variables.tf       # Variables for AWS resources
-
-&nbsp;   │   └── outputs.tf         # Outputs from Terraform deployment
-
-&nbsp;   │
-
-&nbsp;   ├── dashboard/            # Power BI files and visualizations
-
-&nbsp;   │   └── MobileFoodDashboard.pbix
-
-&nbsp;   │
-
-&nbsp;   └── README.md            # Project documentation
+```
+ MobileFoodPermitProject/
+   │
+   ├── pipeline/                 # Airflow DAGs, requirements.txt, and Docker Compose files
+   │   ├── dags/                 # Python DAGs for ETL
+   │   ├── docker-compose.yml    # Airflow Docker configuration
+   │   └── requirements.txt      # Python dependencies
+   │
+   ├── raw\_data/                 # Raw CSV data from the dataset
+   │   └── mobile\_food\_permits.csv
+   │
+   ├── terraform/                # IaC configuration for AWS infrastructure
+   │   ├── main.tf   			# Main Terraform file
+   │   ├── provider.tf        # Cloud provider
+   │   ├── variables.tf       # Variables for AWS resources
+   │   └── outputs.tf         # Outputs from Terraform deployment
+   │
+   ├── dashboard/            # Power BI files and visualizations
+   │   └── MobileFoodDashboard.pbix
+   │
+   └── README.md            # Project documentation
+```
 
 
 
