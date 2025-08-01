@@ -42,7 +42,7 @@ Using SQL queries and Power BI dashboards, this project allows you to:
 
 ### Web Page
 
-<link> https://data.sfgov.org/browse?q=Mobile+Food+Facility+Permit&sortBy=relevance&page=1&pageSize=20
+<link> [https://data.sfgov.org/)
 
 ## Project Structure
 
