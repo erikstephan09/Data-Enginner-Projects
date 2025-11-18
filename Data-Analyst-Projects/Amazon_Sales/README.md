@@ -1,16 +1,16 @@
-\## Amazon Sales
+## Amazon Sales
 
-\# 📦 Amazon Sales Dashboard
-
-
-
-\## 📊 Dashboard Preview
-
-\*(Add your screenshots here for maximum impact)\*  
+# 📦 Amazon Sales Dashboard
 
 
 
-\## 📝 Project Summary
+## 📊 Dashboard Preview
+
+![Dashboard Preview](https://github.com/erikstephan09/Data-Enginner-Projects/blob/main/Data-Analyst-Projects/Amazon_Sales/Image.png)
+
+
+
+## 📝 Project Summary
 
 This project analyzes year-to-date (YTD) and quarter-to-date (QTD) sales performance using \*\*SQL\*\* for data extraction, transformation, and aggregation, and \*\*Power BI\*\* for building an interactive dashboard.  
 
@@ -26,19 +26,19 @@ By combining SQL data modeling with Power BI reporting, stakeholders can quickly
 
 
 
-\## 📌 Business Problem
+## 📌 Business Problem
 
 The company struggles to effectively monitor \*\*sales performance, product movement, and customer satisfaction\*\* throughout the year. Business teams lack a consolidated view that allows them to:
 
 
 
-\- Identify \*\*sales trends\*\* across YTD, QTD, monthly, and weekly periods  
+- Identify \*\*sales trends\*\* across YTD, QTD, monthly, and weekly periods  
 
-\- Detect \*\*top-performing products\*\* that generate the most revenue  
+- Detect \*\*top-performing products\*\* that generate the most revenue  
 
-\- Evaluate \*\*customer satisfaction\*\* through product reviews  
+- Evaluate \*\*customer satisfaction\*\* through product reviews  
 
-\- Compare \*\*category-level performance\*\* for marketing and inventory strategy  
+- Compare \*\*category-level performance\*\* for marketing and inventory strategy  
 
 
 
@@ -52,7 +52,7 @@ To solve this, a Power BI analytics dashboard was built with KPIs for YTD Sales,
 
 
 
-\## 🛠️ Methodology
+## 🛠️ Methodology
 
 1\. Extracted and transformed raw sales data using SQL (CTEs, CASE statements, aggregates).
 
@@ -70,29 +70,29 @@ To solve this, a Power BI analytics dashboard was built with KPIs for YTD Sales,
 
 
 
-\## 🚀 Skills \& Tools Used
+## 🚀 Skills \& Tools Used
 
-\### \*\*SQL\*\*
+### \*\*SQL\*\*
 
-\- CTEs  
+- CTEs  
 
-\- CASE statements  
+- CASE statements  
 
-\- Aggregate functions  
+- Aggregate functions  
 
-\- Data cleaning \& transformation  
+- Data cleaning \& transformation  
 
 
 
-\### \*\*Power BI\*\*
+### \*\*Power BI\*\*
 
-\- DAX (time intelligence, KPI calculations)  
+- DAX (time intelligence, KPI calculations)  
 
-\- Data modeling  
+- Data modeling  
 
-\- ETL (Power Query)  
+- ETL (Power Query)  
 
-\- Interactive dashboards \& visualization design  
+- Interactive dashboards \& visualization design  
 
 
 
