@@ -1,4 +1,4 @@
-\# Project Portfolio
+# Project Portfolio
 
 
 
@@ -10,19 +10,19 @@ Welcome to my project portfolio! Here you will find an organized collection of m
 
 
 
-\## 📊 Data Analyst Projects
+## 📊 Data Analyst Projects
 
 In this folder, you will find projects focused on:
 
 
 
-\- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-\- Data visualization
+- Data visualization
 
-\- Dynamic dashboard development
+- Dynamic dashboard development
 
-\- Data cleaning, transformation, and storytelling
+- Data cleaning, transformation, and storytelling
 
 
 
@@ -30,16 +30,15 @@ Each project includes:
 
 
 
-\- Problem description
+- Problem description
 
-\- Dataset used
+- Dataset used
 
-\- Analysis process
+- Analysis process
 
-\- Key insights
+- Key insights
 
-\- Visualizations or dashboards (Looker Studio, Power BI, etc.)
-
+- Visualizations or dashboards (Looker Studio, Power BI, etc.)
 
 
 👉 \*\*View folder:\*\* `Data-Analyst-Projects`
@@ -50,21 +49,21 @@ Each project includes:
 
 
 
-\## 🛠️ Data Engineer Projects
+## 🛠️ Data Engineer Projects
 
 Projects focused on building pipelines, automation, and large-scale data handling:
 
 
 
-\- ETL/ELT pipelines (Python, Airflow)
+- ETL/ELT pipelines (Python, Airflow)
 
-\- Cloud architectures (AWS)
+- Cloud architectures (AWS)
 
-\- Data modeling for relational and non-relational databases
+- Data modeling for relational and non-relational databases
 
-\- Infrastructure as Code (Terraform)
+- Infrastructure as Code (Terraform)
 
-\- Data integration and workflow orchestration
+- Data integration and workflow orchestration
 
 
 
@@ -72,13 +71,13 @@ Each project includes:
 
 
 
-\- Proposed architecture
+- Proposed architecture
 
-\- Technologies used
+- Technologies used
 
-\- Pipeline explanation
+- Pipeline explanation
 
-\- Code and technical documentation
+- Code and technical documentation
 
 
 
@@ -90,7 +89,7 @@ Each project includes:
 
 
 
-\## 🎯 Portfolio Objective
+## 🎯 Portfolio Objective
 
 This portfolio brings together the projects I have developed to strengthen my skills as a Data Analyst and Data Engineer. Each project reflects real industry practices and processes applied in companies for data-driven decision-making.
 
@@ -100,15 +99,15 @@ This portfolio brings together the projects I have developed to strengthen my sk
 
 
 
-\## 📬 Contact
+## 📬 Contact
 
 If you would like to connect with me or see more of my work:
 
 
 
-\- \*\*LinkedIn:\*\* https://www.linkedin.com/in/erik-estefan-sánchez-méndez-320a88260
+- \*\*LinkedIn:\*\* https://www.linkedin.com/in/erik-estefan-sánchez-méndez-320a88260
 
-\- \*\*Email:\*\* ing.erik.sanchez98@gmail.com
+- \*\*Email:\*\* ing.erik.sanchez98@gmail.com
 
 
 
