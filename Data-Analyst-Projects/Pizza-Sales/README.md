@@ -1,10 +1,10 @@
-\# 🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis
 
 
 
-\## 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-\*(Add your screenshots here for maximum impact)\*  
+*(Add your screenshots here for maximum impact)\*  
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-\## 📝 Project Summary
+## 📝 Project Summary
 
 
 
@@ -22,25 +22,25 @@ This project analyzes pizza sales data to uncover insights on revenue performanc
 
 Key KPIs included:
 
-\- \*\*Total Revenue\*\*
+- \*\*Total Revenue\*\*
 
-\- \*\*Total Orders\*\*
+- \*\*Total Orders\*\*
 
-\- \*\*Total Pizzas Sold\*\*
+- \*\*Total Pizzas Sold\*\*
 
-\- \*\*Average Order Value (AOV)\*\*
+- \*\*Average Order Value (AOV)\*\*
 
-\- \*\*Average Pizzas per Order\*\*
+- \*\*Average Pizzas per Order\*\*
 
 
 
 The dashboard also reveals:
 
-\- Daily and monthly order trends  
+- Daily and monthly order trends  
 
-\- Customer preferences by pizza size and category  
+- Customer preferences by pizza size and category  
 
-\- Top- and bottom-performing pizza products by revenue, quantity sold, and order count  
+- Top- and bottom-performing pizza products by revenue, quantity sold, and order count  
 
 
 
@@ -52,7 +52,7 @@ By integrating structured SQL models with dynamic Power BI visualizations, this 
 
 
 
-\## 📌 Business Problem
+## 📌 Business Problem
 
 
 
@@ -60,13 +60,13 @@ The company lacked a consolidated analytical view of its pizza sales data, makin
 
 
 
-\- Track crucial sales KPIs  
+- Track crucial sales KPIs  
 
-\- Identify daily and monthly trends for staffing and inventory planning  
+- Identify daily and monthly trends for staffing and inventory planning  
 
-\- Understand customer preferences across pizza categories and sizes  
+- Understand customer preferences across pizza categories and sizes  
 
-\- Detect top and low-performing pizzas to guide product and marketing strategy  
+- Detect top and low-performing pizzas to guide product and marketing strategy  
 
 
 
@@ -82,7 +82,7 @@ This project solves that gap by building a complete analytics dashboard that cen
 
 
 
-\## 🛠️ Methodology
+## 🛠️ Methodology
 
 
 
@@ -102,29 +102,29 @@ This project solves that gap by building a complete analytics dashboard that cen
 
 
 
-\## 🚀 Skills \& Tools Used
+## 🚀 Skills \& Tools Used
 
 
 
-\### \*\*SQL\*\*
+### \*\*SQL\*\*
 
-\- CTEs  
+- CTEs  
 
-\- CASE statements  
+- CASE statements  
 
-\- Aggregate functions  
+- Aggregate functions  
 
-\- Data cleaning \& transformation  
+- Data cleaning \& transformation  
 
 
 
-\### \*\*Power BI\*\*
+### \*\*Power BI\*\*
 
-\- DAX (time intelligence, KPIs)  
+- DAX (time intelligence, KPIs)  
 
-\- Data modeling  
+- Data modeling  
 
-\- Power Query (ETL)  
+- Power Query (ETL)  
 
-\- Interactive dashboard design  
+- Interactive dashboard design  
 
